@@ -21,9 +21,10 @@ function CallToAction() {
             base: 64,
             md: '85%',
           }}
-          bg='gray.100'
+          objectFit={'contain'}
+          bg='gray.50'
           loading='lazy'
-          opacity={0.4}
+          opacity={0.8}
         />
       </Flex>
       <Flex
